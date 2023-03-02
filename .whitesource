@@ -4,7 +4,7 @@
 "configExternalURL": "",
 "enableLicenseViolations": "true",
 "projectToken": "",
-"baseBranches": []
+"baseBranches": ["develop"]
 },
 "pullRequestStatusSettings": {
 "vulnerablePullRequestStatus": "failed",
@@ -27,7 +27,7 @@
     "enableScan": true,
     "scanPullRequests": true,
     "incrementalScan": false,
-    "baseBranches": ["integration"]
+    "baseBranches": ["develop"]
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "failure",
