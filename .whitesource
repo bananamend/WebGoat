@@ -1,7 +1,7 @@
 {
 "scanSettings": {
-"configMode": "AUTO",
-"configExternalURL": "",
+"configMode": "LOCAL",
+"configExternalURL": "https://raw.githubusercontent.com/wssbanana/banana-configuration/main/whitesource.config",
 "enableLicenseViolations": "true",
 "projectToken": "",
 "baseBranches": ["develop"]
