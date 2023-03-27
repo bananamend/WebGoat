@@ -3,7 +3,7 @@
 "configMode": "EXTERNAL",
 "configExternalURL": "https://raw.githubusercontent.com/wssbanana/banana-configuration/main/whitesource.config",
 "enableLicenseViolations": "true",
-"projectToken": "",
+"projectToken": "edc561d2c57849e7b86e560d888d3ff4224b91d1c1714818a3b02e8cd0275809",
 "baseBranches": ["develop"]
 },
 "pullRequestStatusSettings": {
